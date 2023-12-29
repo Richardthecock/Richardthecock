@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Richardthecock
 - 👀 I’m interested in C# programing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning the Alchimist 
+- 💞️ I’m looking to collaborate on my brother
 - 📫 How to reach me ...
 
 <!---
